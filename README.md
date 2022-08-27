@@ -1,9 +1,4 @@
-### Hi I'm ojikutu aishat 👋
-
-<!--
-**moel-elixir025/moel-elixir025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+👋Hi I'm ojikutu aishat
 
 - 🔭 I’m interested in ML and data science
 - 🌱 I’m currently learning data science
